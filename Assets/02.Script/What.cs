@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class What : MonoBehaviour
 {
+
     private Rigidbody rb;
+
+    private Transform tr;
+
     // Start is called before the first frame update
     void Start()
     {
